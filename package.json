@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/jamesxiong45/Pretty-Cool-Logo-Generator#readme",
   "dependencies": {
-    "inquirer": "^9.1.4"
+    "inquirer": "^9.1.4",
+    "svg-canvas": "^1.0.2"
   }
 }
