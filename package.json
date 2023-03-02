@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/jamesxiong45/Pretty-Cool-Logo-Generator/issues"
   },
-  "homepage": "https://github.com/jamesxiong45/Pretty-Cool-Logo-Generator#readme"
+  "homepage": "https://github.com/jamesxiong45/Pretty-Cool-Logo-Generator#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  }
 }
