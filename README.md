@@ -4,7 +4,7 @@
 
 In this project, I was required to create an app that creates a logo through user inputs. The logo is stored as 'logo.svg' in the examples directory after the user is done specifying a 3 character string, text color (color name/color code), shape (circle,triangle, square), and shape color (color name/color code). I have provided an example logo in the examples directory of this repo!
 
-I experienced a lot of troubles with what dependencies and trying to test out the jest for my text inputs so I decided to leave that out.
+I experienced a lot of troubles with what dependencies and trying to test out the jest for my text inputs. I was able to get the jest to be functioning for 6/9 of my tests and left out the 3 tests each text input.
 
 ## Usage
 
