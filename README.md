@@ -8,7 +8,7 @@ I experienced a lot of troubles with what dependencies and trying to test out th
 
 ## Usage
 
-This app requires the use of Node.js in VSCode! I went through a lot of dependencies because I didn't know what would work, but I installed and used canvas/shapes/svg-canvas(to be able to generate an image), inquirer, and jest (to test the constructors) By typing node index.js into the terminal, you will be prompted to answer a series a questions that will be used to create the logo.
+This app requires the use of Node.js in VSCode! I went through a lot of dependencies because I didn't know what would work, but I installed and used canvas/shapes/svg-canvas(to be able to generate an image), inquirer, and jest (to test the constructors) By typing 'node index.js' into the terminal, you will be prompted to answer a series a questions that will be used to create the logo.
 
 ## Screenshot
 ![Example Logo!](./examples/logo.svg)
